@@ -3,7 +3,8 @@
 # 💫About Me :
 FullStack Developer
 Working on PHP/Laravel projects.
-Studying NodeJs/React
+<br>
+Studying NodeJs/React.
 
 
 ## 🌐Socials
