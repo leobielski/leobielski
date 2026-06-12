@@ -3,11 +3,6 @@
 ## Sobre mim
 Desenvolvedor apaixonado por criar soluções tecnológicas eficientes e escaláveis. Sempre em busca de novos desafios e aprendizado contínuo.
 
-## 🚀 Projetos em Destaque
-- **[moviejacode](https://github.com/leobielski/moviejacode)**: App com React + Firebase + React Bootstrap
-- **[controlefinanceiroback](https://github.com/leobielski/controlefinanceiroback)**: Backend em TypeScript
-- **[barber](https://github.com/leobielski/barber)**: Barbershop SaaS em JavaScript
-
 ## Tech Stack
 - **Frontend**: React, JavaScript, TypeScript, HTML5, CSS3
 - **Backend**: Node.js, TypeScript, Express
