@@ -9,9 +9,9 @@ Desenvolvedor apaixonado por criar soluções tecnológicas eficientes e escalá
 - **Database & Tools**: Firebase, Git, Docker
 
 ## Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leobielski&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leobielski&layout=compact&theme=tokyonight)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=leobielski&theme=tokyonight)
+![](https://github-readme-stats.shion.dev/api?username=leobielski&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=leobielski&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=leobielski&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Contato
 - [LinkedIn](https://linkedin.com/in/leobielski)
